@@ -1,0 +1,10 @@
+{
+    "persons": 0,
+    "hardhat": 1,
+    "safetyVest": 0,
+    "noHardhat": 0,
+    "noSafetyVest": 1,
+    "violations": 1,
+    "compliance": 0,
+    "processingTime": 17.59
+}
